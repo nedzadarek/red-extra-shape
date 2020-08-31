@@ -1,0 +1,3 @@
+- Free to use.
+- Just mention me (point to the gist/github or something).
+- No warranties.
